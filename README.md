@@ -1,4 +1,4 @@
 # KazapAcademy
-##cursos:
--Git
+## cursos:
+- Git
 
